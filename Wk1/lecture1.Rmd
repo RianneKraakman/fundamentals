@@ -603,7 +603,7 @@ Why does R tell us that $3 - 2.9 \neq 0.1$?
 ## Functions
 
 In R, a name followed directly by parentheses, `()`, always indicates a 
-functions. For example:
+function. For example:
 
  - `matrix()` is a function
  - `c()` is a function
