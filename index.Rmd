@@ -25,30 +25,47 @@ Assessment: Assignments and Exam <br>
 
 | What?   | When?               | Where?                |
 |---------|---------------------|-----------------------|
+|         |                     |                       |
 | Lecture | 2021-11-15<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-11-18<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-11-18<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-11-18<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-11-22<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-11-25<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-11-25<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-11-25<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-11-29<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-12-02<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-12-02<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-12-02<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-12-06<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-12-09<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-12-09<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-12-09<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-12-13<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-12-16<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-12-16<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-12-16<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-12-20<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-12-23<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-12-23<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-12-23<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-01-10<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-01-13<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-01-13<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-01-13<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Lecture | 2021-01-17<br>17:15 | Ruppert<br>Blauw      |
 | WG1     | 2021-01-20<br>09:00 | Ruppert<br>011        |
+| WG3     | 2021-01-20<br>09:00 | Androclus<br>C023     |
 | WG2     | 2021-01-20<br>11:00 | Ruppert<br>011        |
+|         |                     |                       |
 | Exam    | 2021-01-26<br>19:00 | Education<br>Theatron |
 
 ---
@@ -355,12 +372,14 @@ Submit an `R` script containing your answers to Exercise 3 to the
 [SurfDrive][sd] drop folder. Name the file `Yourname.R`, where `Yourname` is 
 your name. Do this ***before the next lecture***. 
 
+<!--
 ### Exercise Discussion
 The video discussions for the practical exercises:
 
 - [Exercise 1 discussion](https://www.dropbox.com/s/qgxlrrl808klmjq/Exercise1_discussion.mp4?dl=0)
 - [Exercise 2 discussion](https://www.dropbox.com/s/7bxqj6gn7occ0yr/Exercise%202_discussion.mp4?dl=0)
 - [Exercise 3 discussion](https://www.dropbox.com/s/dl5jklj4oixfpxd/Exercise3_discussion.mp4?dl=0)
+-->
 
 <!----------------------------------------------------------------------------->
 
